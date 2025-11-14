@@ -1,0 +1,14 @@
+C:\Users\marlo\Documents\usuarioQ42025\bin\Debug\net10.0\usuarioQ42025.exe
+C:\Users\marlo\Documents\usuarioQ42025\bin\Debug\net10.0\usuarioQ42025.deps.json
+C:\Users\marlo\Documents\usuarioQ42025\bin\Debug\net10.0\usuarioQ42025.runtimeconfig.json
+C:\Users\marlo\Documents\usuarioQ42025\bin\Debug\net10.0\usuarioQ42025.dll
+C:\Users\marlo\Documents\usuarioQ42025\bin\Debug\net10.0\usuarioQ42025.pdb
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.AssemblyInfoInputs.cache
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.AssemblyInfo.cs
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.dll
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\refint\usuarioQ42025.dll
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.pdb
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\usuarioQ42025.genruntimeconfig.cache
+C:\Users\marlo\Documents\usuarioQ42025\obj\Debug\net10.0\ref\usuarioQ42025.dll
